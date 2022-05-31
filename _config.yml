@@ -1,8 +1,8 @@
-title: "Blog Title"
-author: "Blog Author"
-description: "Made with <b style=\"color: #f45;\">&lt;3</b>"
+title: "Altis News Network"
+author: "Yzarc Mohammed"
+description: "Für Altis Raiders"
 permalink: /:title/
-lang: "en"
+lang: "de"
 excerpt_separator: "\n\n\n"
 date_format: "%B %d, %Y"
 
